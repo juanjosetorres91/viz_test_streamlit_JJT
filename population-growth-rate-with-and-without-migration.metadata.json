@@ -1,0 +1,46 @@
+{
+  "chart": {
+    "title": "Population growth rate with and without migration",
+    "subtitle": "The annual change in population with migration included versus the change if there was zero migration (neither emigration nor immigration). The latter, therefore, represents the population change based only on domestic births and deaths.",
+    "citation": "UN, World Population Prospects (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/population-growth-rate-with-and-without-migration?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United States"
+    ]
+  },
+  "columns": {
+    "Population growth rate - Sex: all - Age: all - Variant: estimates": {
+      "titleShort": "Growth rate, total",
+      "titleLong": "Growth rate, total - UN WPP",
+      "descriptionShort": "Average exponential rate of growth of the population over a given period. It is calculated as ln(P2/P1) where P1 and P2 are the populations on 1 January of subsequent years.",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "1950-2023",
+      "type": "Numeric",
+      "owidVariableId": 950924,
+      "shortName": "growth_rate__sex_all__age_all__variant_estimates",
+      "lastUpdated": "2024-07-12",
+      "citationShort": "UN, World Population Prospects (2024) – processed by Our World in Data",
+      "citationLong": "UN, World Population Prospects (2024) – processed by Our World in Data. “Growth rate, total – UN WPP” [dataset]. United Nations, “World Population Prospects” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/950924.metadata.json"
+    },
+    "Natural population growth rate - Sex: all - Age: all - Variant: estimates": {
+      "titleShort": "Natural growth rate, total",
+      "titleLong": "Natural growth rate, total - UN WPP",
+      "descriptionShort": "Crude birth rate minus the crude death rate. Represents the portion of population growth (or decline) determined exclusively by births and deaths.",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "1950-2023",
+      "type": "Numeric",
+      "conversionFactor": 1,
+      "owidVariableId": 950978,
+      "shortName": "natural_change_rate__sex_all__age_all__variant_estimates",
+      "lastUpdated": "2024-07-12",
+      "citationShort": "UN, World Population Prospects (2024) – processed by Our World in Data",
+      "citationLong": "UN, World Population Prospects (2024) – processed by Our World in Data. “Natural growth rate, total – UN WPP” [dataset]. United Nations, “World Population Prospects” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/950978.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-10-31",
+  "activeFilters": {}
+}
