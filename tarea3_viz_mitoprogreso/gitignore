@@ -1,0 +1,29 @@
+# Archivo .gitignore para el repositorio storytelling/
+# Ignora archivos generados, de ambiente y outputs voluminosos.
+
+# 1. Archivos de Jupyter/Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# 2. Salidas Generadas (Outputs)
+# El HTML y el PPT se pueden regenerar desde el Notebook/Script
+storytelling_executive.html
+Storytelling_Executive_Presentation.pptx
+
+# Directorio que contiene los gráficos generados
+plots/
+
+# Archivos temporales o de depuración
+*_backup.ipynb
+*_error.ipynb
+structure.txt
+transcription_extracted.txt
+
+# 3. Archivos de sistema operativo y editores
+.DS_Store
+Thumbs.db
+*.swp

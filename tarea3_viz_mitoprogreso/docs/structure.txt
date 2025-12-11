@@ -1,0 +1,20 @@
+Cell 0 [code]: from IPython.display import HTML, display import plotly.io as pio import plotly.graph_objects as go 
+Cell 1 [code]:  import pandas as pd import plotly.express as px import plotly.graph_objects as go import numpy as n
+Cell 2 [markdown]: <h3>PROYECTO: IMPACTO GLOBAL</h3> <h1>De los Datos a la Acción: El Mito del Progreso</h1> <div class
+Cell 3 [code]:  # Global Trend global_trend = df.groupby('year')['lifeExp'].mean().reset_index() current_life_exp =
+Cell 4 [markdown]: <h3>2. EL CONFLICTO</h3> <h2>📉 La Fricción Silenciosa</h2> <p>     Al profundizar en los segmentos r
+Cell 5 [code]:  cont_trend = df.groupby(['year', 'continent'])['lifeExp'].mean().reset_index()  fig_conflict = go.F
+Cell 6 [markdown]: <h3>3. EL ANÁLISIS</h3> <h2>🔍 Diagnóstico: ¿Qué impulsa el bienestar?</h2> <p>     Para entender la 
+Cell 7 [code]:  # Static Bubble Chart for PDF compatibility/cleanliness, or Animation with clean style fig_bubble =
+Cell 8 [code]: 
+Cell 9 [code]:  df_2007 = df[df['year'] == 2007] fig_climax = px.scatter(     df_2007,      x='gdpPercap',      y='
+Cell 10 [markdown]: <h3>4. EL CLÍMAX</h3> <div class="insight-box-highlight">     💡 <b>El Hallazgo Clave (The Insight)</
+Cell 11 [code]: df_2007 = df[df['year'] == 2007] fig_climax = px.scatter(     df_2007,      x='gdpPercap',      y='l
+Cell 12 [markdown]: <h3>5. LA RESOLUCIÓN</h3> <h2>🚀 Estrategia Recomendada</h2> <p>     Basados en la evidencia anterior
+Cell 13 [markdown]:  <h3>2. EL CONTEXTO</h3> <h1>La Geografía como Destino</h1>  <div class="insight-box">     <h3>💡 Ins
+Cell 14 [code]:  # Filtrar datos 2007 df_2007 = df[df['year'] == 2007]  # Crear Box Plot fig = px.box(     df_2007, 
+Cell 15 [markdown]:  <h3>3. EL ANÁLISIS</h3> <h1>La Curva de la Prosperidad</h1>  <div class="kpi-card">     <span class
+Cell 16 [code]:  # Crear Bubble Chart fig = px.scatter(     df_2007,      x='gdpPercap',      y='lifeExp',      size
+Cell 17 [markdown]:  <h3>4. EL QUIEBRE</h3> <h1>Cuando el Progreso se Detiene: La Crisis de los 90s</h1>  <div class="al
+Cell 18 [code]:  # Preparar datos agregados df_group = df.groupby(['year', 'continent'])['lifeExp'].median().reset_i
+Cell 19 [markdown]:  <hr style="border: 0; border-top: 1px solid #ddd; margin: 40px 0;">  <h1>Conclusiones Estratégicas<

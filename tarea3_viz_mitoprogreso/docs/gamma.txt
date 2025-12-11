@@ -1,0 +1,74 @@
+nforme para Presentación Ejecutiva (Formato Gamma/Oral)
+Título: De los Datos a la Acción: El Mito del Progreso Audiencia: Ejecutivos / Tomadores de Decisión Tiempo Estimado: 12 Minutos Objetivo: Demostrar que el crecimiento económico por sí solo no garantiza salud, y proponer un modelo de eficiencia sanitaria.
+
+Estructura Narrativa (Framework ABT)
+1. INTRODUCCIÓN (AND) - 2 Minutos
+Diapositiva 1: El Espejismo Global
+
+Visual Sugerido: Gráfico de línea simple mostrando la Esperanza de Vida Global subiendo constantemente desde 1950 hasta hoy. Título: "El Mundo Mejora... En Promedio".
+Guión (Speaker Notes):
+"Buenos días. Si miramos los datos agregados, la historia de la humanidad en los últimos 50 años parece un éxito rotundo. La esperanza de vida global ha crecido ininterrumpidamente. Vivimos más y mejor que nunca.
+
+Sin embargo, los promedios son peligrosos. Esconden las grietas del sistema. Hoy no vengo a celebrar el éxito global, sino a hablar de quienes se han quedado atrás y por qué."
+
+2. CONFLICTO (BUT) - 4 Minutos
+Diapositiva 2: La Geografía como Destino
+
+Visual Sugerido: Boxplot (Diagrama de Caja) mostrando la dispersión de esperanza de vida por continente. África debe destacar con una caja muy amplia y baja.
+Guión (Speaker Notes):
+"Pero cuando desagregamos esa línea perfecta, encontramos una fricción silenciosa. Miren este gráfico. Cada caja representa un continente.
+
+Mientras Europa y América se agrupan en la cima con alta esperanza de vida y poca desigualdad, África nos cuenta una historia distinta. No solo está más abajo; es enormemente desigual. La geografía, lamentablemente, sigue siendo un predictor de destino. Nacer en el continente equivocado te quita décadas de vida."
+
+Diapositiva 3: La Herida de los 90s (El Punto de Quiebre)
+
+Visual Sugerido: Gráfico de líneas comparativo. Una línea gris ("Resto del Mundo") subiendo, y una línea roja ("África") que colapsa en 1990 y luego se recupera lentamente.
+Guión (Speaker Notes):
+"¿Por qué África se rezagó tan brutalmente? Aquí está la evidencia. En los años 90, mientras el mundo avanzaba gracias a la tecnología y la paz, África enfrentó su tormenta perfecta: la epidemia del VIH/SIDA combinada con inestabilidad política.
+
+No fue un estancamiento suave, fue un colapso. Perdieron años de progreso en una sola década. Esto creó una brecha estructural de la que apenas se están recuperando."
+
+3. ANÁLISIS (THEREFORE) - 3 Minutos
+Diapositiva 4: El Mito del PIB
+
+Visual Sugerido: Scatterplot (Gráfico de Dispersión). Eje X: PIB per Cápita (Log), Eje Y: Esperanza de Vida. Destacar un umbral vertical en $4,000 USD.
+Guión (Speaker Notes):
+"Muchos asumen que para arreglar la salud, primero necesitamos hacernos ricos. Que el PIB lo cura todo.
+
+Nuestros datos demuestran que eso es falso. Miren este análisis de correlación. La relación entre dinero y vida no es lineal. Es logarítmica.
+
+El hallazgo clave es este: El 80% de la ganancia en esperanza de vida ocurre ANTES de llegar a los $4,000 dólares per cápita. Después de ese punto, necesitas cantidades obscenas de dinero para ganar solo un año más de vida."
+
+4. RESOLUCIÓN - 3 Minutos
+Diapositiva 5: Eficiencia Sanitaria Temprana
+
+Visual Sugerido: Gráfico de dispersión enfocado en el cuadrante superior izquierdo (Pobres pero Sanos). Destacar a Vietnam como caso de éxito.
+Guión (Speaker Notes):
+"Por lo tanto, la estrategia para África no puede ser 'esperar a ser ricos como Europa'. Eso tardará cien años.
+
+La estrategia debe ser la Eficiencia Sanitaria Temprana. Miren a Vietnam en este gráfico. Tienen el mismo PIB que muchos países africanos, pero una esperanza de vida de primer mundo.
+
+África no tiene un problema de falta de dinero solamente; tiene un problema de conversión de recursos. Necesitamos copiar los modelos de eficiencia sanitaria (vacunación, atención primaria, educación materna) que funcionan con bajo presupuesto."
+
+Diapositiva 6: Conclusiones y Siguientes Pasos
+
+Visual Sugerido: Lista de 3 pilares con iconos (Foco, Eficiencia, Dato).
+Guión (Speaker Notes):
+"Para cerrar, nuestra recomendación ejecutiva se basa en tres pilares:
+
+Focalización: Inversión prioritaria en salud básica hasta alcanzar el umbral de los $4,000 USD.
+Eficiencia: Replicar modelos de bajo costo y alto impacto (como Vietnam o Kerala).
+Monitoreo: Dejar de mirar promedios globales y medir la reducción de brechas y dispersión.
+Muchas gracias."
+
+Instrucciones para Gamma AI
+Copia y pega este prompt en Gamma para generar la base:
+
+"Actúa como un consultor de estrategia de McKinsey. Crea una presentación de 6 diapositivas sobre 'La Brecha de Salud en África'. Usa un tono profesional, minimalista y basado en datos.
+
+Título: De los Datos a la Acción.
+Slide: El mundo mejora en promedio (gráfico lineal ascendente).
+Slide: Pero África tiene alta desigualdad (boxplot).
+Slide: La crisis del VIH en los 90s causó el rezago (gráfico de línea con caída).
+Slide: Insight Clave: El 80% de la salud se gana antes de los $4,000 USD de PIB (scatterplot).
+Slide: Estrategia: Copiar modelos eficientes como Vietnam (texto y bullets)."

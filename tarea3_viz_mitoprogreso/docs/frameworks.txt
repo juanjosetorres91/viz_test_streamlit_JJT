@@ -1,0 +1,22 @@
+✅ Setup – Insight – Implicación
+Por qué lo recomiendo:
+
+Claridad y fuerza argumental: Comienza con el contexto (Setup), revela un hallazgo clave (Insight) y termina con una implicación concreta (acción o reflexión).
+Ideal para datos evolutivos: Gapminder muestra cambios en salud y riqueza a lo largo del tiempo, lo que permite un insight poderoso sobre convergencia/desigualdad.
+Cumple la rúbrica: Facilita un mensaje central accionable y una recomendación clara para tomadores de decisiones.
+
+Ejemplo aplicado:
+
+Setup: “En 1952, la brecha en esperanza de vida y riqueza entre continentes era abismal.”
+Insight: “Durante 55 años, Asia y América Latina lograron avances notables, pero África sigue rezagada.”
+Implicación: “Invertir en salud y educación es clave para cerrar la brecha en desarrollo.”
+
+
+Comparación rápida:
+
+ABT (And–But–Therefore): Muy útil para historias simples y directas, pero menos estructurado para múltiples visualizaciones.
+Tres Actos: Funciona bien para presentaciones largas, pero puede sentirse más narrativo que analítico.
+
+
+¿Quieres que prepare la narrativa completa con este framework (mensaje central + estructura + títulos activos) y proponga las visualizaciones alineadas a la rúbrica?
+O prefieres que primero hagamos un EDA rápido para confirmar los insights antes de redactar la historia?
